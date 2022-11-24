@@ -12,6 +12,7 @@ The Website built using html and css and demonstrates the use to semantic tags a
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file_structure)
+- [Badges](#badges)
 - [License](#license)
 
 ## Installation
