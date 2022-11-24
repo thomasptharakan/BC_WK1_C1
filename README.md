@@ -4,7 +4,7 @@
 
 This repository ("Horiseon Company Website") contains the code for the Horiseon company website. Horiseon is a digital management company. The website provides a listing of the companies key products and capabilites.
 
-The Website built using html and css.
+The Website built using html and css and demonstrates the use to semantic tags and comments.
 
 
 ## Table of Contents
@@ -34,11 +34,8 @@ The Website built using html and css.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Base code provide by Edx as part of the bootcamp.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## File_Structure
 ```
