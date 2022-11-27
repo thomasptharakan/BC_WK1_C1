@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository ("Horiseon Company Website") contains the code for the Horiseon company website. Horiseon is a digital management company. The website provides a listing of the companies key products and capabilites.
+This repository ("Static Website Horiseon") contains the code for the Horiseon company website. Horiseon is a digital management company. The website provides a listing of the companies key products and capabilites.
 
 The Website is built using html and css and demonstrates the use of semantic tags and comments.
 
